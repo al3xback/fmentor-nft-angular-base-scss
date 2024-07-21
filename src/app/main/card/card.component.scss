@@ -62,7 +62,7 @@
 }
 
 .desc {
-	margin-bottom: func.em(16, 18);
+	margin-bottom: func.em(18);
 }
 
 .stats-list-item {
@@ -110,6 +110,7 @@
 
 	.desc {
 		margin-bottom: func.em(24, 18);
+		font-size: func.em(18);
 	}
 
 	.stats-list-item,
